@@ -1,3 +1,8 @@
+## data
+
+data/sq500_articles_test.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
