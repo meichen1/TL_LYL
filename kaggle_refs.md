@@ -12,5 +12,6 @@ https://www.kaggle.com/code/arunklenin/in-depth-analysis-five-anomaly-detection-
 - [nlp, calculated by hand](https://www.linkedin.com/posts/alphasignal_can-foundational-concepts-like-transformers-activity-7163890641054232576-B1ai/?utm_source=share&utm_medium=member_ios)
 - [Python Sentiment Analysis Project with NLTK and 🤗 Transformers. Classify Amazon Reviews!!](https://youtu.be/QpzMWQvxXWk?si=4y_ozRBUxyxNhGBz)
 - [rescale amazon rating](https://www.linkedin.com/pulse/rescale-amazon-ratings-using-reviews-guo-li/)
+- [health care provider](https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data/data)
 
 
