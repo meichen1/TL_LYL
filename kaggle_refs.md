@@ -13,5 +13,8 @@ https://www.kaggle.com/code/arunklenin/in-depth-analysis-five-anomaly-detection-
 - [Python Sentiment Analysis Project with NLTK and 🤗 Transformers. Classify Amazon Reviews!!](https://youtu.be/QpzMWQvxXWk?si=4y_ozRBUxyxNhGBz)
 - [rescale amazon rating](https://www.linkedin.com/pulse/rescale-amazon-ratings-using-reviews-guo-li/)
 - [health care provider](https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data/data)
+- [Anomaly Detection Techniques Summary](https://www.kaggle.com/code/praxitelisk/anomaly-detection-techniques-summary)
+- [Medical claims anomaly detection](https://www.kaggle.com/code/drscarlat/medical-claims-anomaly-detection)
+- [yelp dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)
 
 
