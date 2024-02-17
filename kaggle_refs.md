@@ -16,5 +16,6 @@ https://www.kaggle.com/code/arunklenin/in-depth-analysis-five-anomaly-detection-
 - [Anomaly Detection Techniques Summary](https://www.kaggle.com/code/praxitelisk/anomaly-detection-techniques-summary)
 - [Medical claims anomaly detection](https://www.kaggle.com/code/drscarlat/medical-claims-anomaly-detection)
 - [yelp dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)
+  - https://www.kaggle.com/code/zolboo/recommender-systems-knn-svd-nn-keras
 
 
