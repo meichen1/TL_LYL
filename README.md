@@ -1,8 +1,6 @@
 # TL_LYL
 Techlent group project
 
-https://cyberattack-2hbfkyznrdjpjiylpacg7r.streamlit.app/
-
 ## Project Goals
 
 ## Software
@@ -10,7 +8,10 @@ https://cyberattack-2hbfkyznrdjpjiylpacg7r.streamlit.app/
 ## Data
 
 ## Product
+We deployed our product using Streamlit Sharing. The app can be accessed through this [https://cyberattack-2hbfkyznrdjpjiylpacg7r.streamlit.app/](link).
 
 ## Summary
 
-## Acknowledge
+- We ...
+
+## Acknowledgement
